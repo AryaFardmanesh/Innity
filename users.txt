@@ -1,0 +1,9 @@
+Account Admin:
+  Username = admin
+  Password = admin
+Account Manager:
+  Username = user-1
+  Password = user-1
+Account Normal:
+  Username = user-2
+  Password = user-2
