@@ -109,7 +109,7 @@ This project was developed as part of a **university course project** to demonst
 
 ## 📜 License
 
-This project is licensed under the [MIT](./LICENSE) license.
+This project is licensed under the [MIT license](./LICENSE).
 
 ---
 
