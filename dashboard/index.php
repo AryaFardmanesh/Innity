@@ -57,7 +57,7 @@
 
 					<h5 class="mb-3">About the Developer</h5>
 					<p>
-						Developed and maintained by <strong>Matin Alavikia</strong>, this project showcases dedication to clean code, usability, and modern web technologies.
+						Developed and maintained by <strong>Arya Fardmanesh</strong>, this project showcases dedication to clean code, usability, and modern web technologies.
 					</p>
 
 				</div>
